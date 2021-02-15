@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ReMax.clsClient">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAEQAgAAAAAAAQAkAAAAIAEgAAgAAAAAAAAIAE=</HashCode>
+      <FileName>Class Diagram\clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReMax.clsEmployees">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAgAAAAAAQAAgAAAQIAEgAggEAAAAQAAAAE=</HashCode>
+      <FileName>Class Diagram\clsEmployees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReMax.clsHouse">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQEAEAAAQAQAEAQQAAAgAACAYCEAAACQAAAAAAAAgA=</HashCode>
+      <FileName>Class Diagram\clsHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

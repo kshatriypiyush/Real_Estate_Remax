@@ -1,0 +1,8 @@
+Import Database from databse folder into Sql server object explorer.Before Running the Application.
+(IMP NOTE: Name Database as RemaxDt)
+
+Click on Admin button to log as admin or click on agent to login as agent.
+
+Database is created using SQL Server.
+
+Thank you.
